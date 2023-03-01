@@ -5,8 +5,8 @@ class Program
     static void Main(string[] args)
     {
 
-        Console.WriteLine("This is a sample")
-        
+        Console.WriteLine("This is a  sample")
+
         Console.Write("Enter number ");
         string valueFromUser = Console.ReadLine();
         
